@@ -1,0 +1,15 @@
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.csproj.AssemblyReference.cache
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.AssemblyInfoInputs.cache
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.AssemblyInfo.cs
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.csproj.CoreCompileInputs.cache
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\bin\Debug\net6.0\mis-221-lab-4-TreyPattillo.exe
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\bin\Debug\net6.0\mis-221-lab-4-TreyPattillo.deps.json
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\bin\Debug\net6.0\mis-221-lab-4-TreyPattillo.runtimeconfig.json
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\bin\Debug\net6.0\mis-221-lab-4-TreyPattillo.dll
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\bin\Debug\net6.0\mis-221-lab-4-TreyPattillo.pdb
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.dll
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\refint\mis-221-lab-4-TreyPattillo.dll
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.pdb
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\mis-221-lab-4-TreyPattillo.genruntimeconfig.cache
+C:\Users\18327\OneDrive\Documents2.0\CodeFiles\mis-221-lab-4-TreyPattillo\obj\Debug\net6.0\ref\mis-221-lab-4-TreyPattillo.dll
